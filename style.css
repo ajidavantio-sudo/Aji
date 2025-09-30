@@ -1,3 +1,4 @@
+
 body {
     backgraound-color: #FFFFE0;
     font-family: Arial, sans-serif
@@ -10,3 +11,8 @@ kiri/kanan */
     backgraound-color: white;
     border-radius: 15px; /* Membuat sudut menjadi melengkung */
     box-shadow: 0 4px rgbaa(0,0,0,0.1); /* Efek bayangan */
+}
+.kartu_profil img {
+    width:150px;
+    border_radius: 50% /:Trik untuk membuat gambar persegi menjadi lingkaran sempurna"/
+}
